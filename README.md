@@ -1,4 +1,4 @@
-# Multi-Embedding
+# Multi-Embedding (ICML 2024)
 
 On the Embedding Collapse When Scaling Up Recommendation Models [[paper]](https://arxiv.org/abs/2310.04400)
 
